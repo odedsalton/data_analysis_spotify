@@ -1,3 +1,9 @@
-# data_analysis_spotify
-a project that shows data exploration over spotify songs in this project you'll see how to explore data with pandas and matplot libraries. 
-you can see use of varies of data types, classes and how to handle missing data.
+
+**Data**
+
+For this project we used joined data from Spotify
+
+**Description**
+
+demonstrate how to do data exploration over spotify songs using pandas and matplot.
+you can also see use in variety of data types, classes and how to handle missing data
